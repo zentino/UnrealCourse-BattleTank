@@ -7,3 +7,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * S04 Game Design Document
 * Setting Up a GitHub "Repo"
 * Creating & Deleting Landscapes
+* Landscape Setup & Scaling

@@ -1,5 +1,7 @@
 # BattleTank
-A open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4.
+A open-world head-to-head tank fight with simple AI, terrain, and advanced control system in Unreal 4.</br>
+[The Unreal Engine Developer Course](https://www.udemy.com/unrealcourse/)</br>
+[GameDev.tv](https://www.gamedev.tv/)
 
 ## Lecture List
 * Intro, Notes & Assets
@@ -8,3 +10,5 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Setting Up a GitHub "Repo"
 * Creating & Deleting Landscapes
 * Landscape Setup & Scaling
+* A Landscaping Process
+* Upgrading Engine Version

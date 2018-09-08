@@ -13,3 +13,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * A Landscaping Process
 * Upgrading Engine Version
 * Using Landscape Layers
+* Flat Shading Low Poly Landscapes

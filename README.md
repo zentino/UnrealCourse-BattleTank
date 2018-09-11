@@ -17,3 +17,5 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * More Landscaping Tools
 * Actors from Multiple Meshes
 * Configuring a Tank
+* 3rd Person Camera Control
+* Fixing 3rd Person Camera Rotation

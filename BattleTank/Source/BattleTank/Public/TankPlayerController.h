@@ -18,5 +18,6 @@ class BATTLETANK_API ATankPlayerController : public APlayerController
 public:
 	ATank * GetControlledTank() const;  // It is not going to change future member variables
 	
+	void BeginPlay() override;
 	
 };

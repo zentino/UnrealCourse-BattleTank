@@ -30,3 +30,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Virtual Functions and Vtables
 * Creating an AI Controller Class
 * Get the Player Controller with C++
+* Add Tick() to PlayerController

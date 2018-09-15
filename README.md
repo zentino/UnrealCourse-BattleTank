@@ -29,3 +29,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Overloading and Polymorphism
 * Virtual Functions and Vtables
 * Creating an AI Controller Class
+* Get the Player Controller with C++

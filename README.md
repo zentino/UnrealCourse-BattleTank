@@ -35,3 +35,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Finding Screen Pixel Coordinates
 * Using DeprojectScreenToWorld()
 * Using LineTraceSingleByChannel()
+* Unify Player & AI Aiming

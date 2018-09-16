@@ -33,4 +33,5 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Add Tick() to PlayerController
 * Creating an Out Parameter Method
 * Finding Screen Pixel Coordinates
-* Using DeprojectScreenToWorld
+* Using DeprojectScreenToWorld()
+* Using LineTraceSingleByChannel()

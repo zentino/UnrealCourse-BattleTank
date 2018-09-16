@@ -31,3 +31,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Creating an AI Controller Class
 * Get the Player Controller with C++
 * Add Tick() to PlayerController
+* Creating an Out Parameter Method

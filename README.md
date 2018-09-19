@@ -37,3 +37,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Using LineTraceSingleByChannel()
 * Unify Player & AI Aiming
 * Create Default Sub Objects in C++
+* BlueprintCallable()

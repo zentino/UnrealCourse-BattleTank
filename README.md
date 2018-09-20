@@ -39,3 +39,4 @@ A open-world head-to-head tank fight with simple AI, terrain, and advanced contr
 * Create Default Sub Objects in C++
 * BlueprintCallable()
 * SuggestProjectileVelocity()
+* Predict Projectile Landing Point
